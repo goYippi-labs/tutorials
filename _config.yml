@@ -1,0 +1,5 @@
+# Title and name of your site
+name: 'goYippi Tutorials & FAQs'
+
+# Build settings
+markdown: kramdown

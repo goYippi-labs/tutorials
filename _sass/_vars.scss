@@ -1,0 +1,39 @@
+// Default Fonts & Colors
+$font-stack: 'Source Sans Pro', Arial, sans-serif;
+
+$text-color: #1a1713;
+$link-color: #827c74;
+$markup-color: #2da6dd;
+$white-color: #ffffff;
+
+$goyippi-green: #86b83d;
+$goyippi-tan: #c9a575;
+$goyippi-red: #df454b;
+$goyippi-violet: #ba5096;
+
+$goyippi-dark-grey: #524d45;
+
+$goyippi-light-grey: #969088;
+$goyippi-light-tan: #c0bab1;
+
+$primary-width: 1000px;
+$default-padding: 20px;
+
+$breakpoint-big: 1040px;
+$breakpoint-medium: 760px;
+$breakpoint-small: 460px;
+
+// Clearfix Placeholder
+%clearfix {
+  *zoom: 1;
+
+  &:before,
+  &:after {
+    content: ' ';
+    display: table;
+  }
+
+  &:after {
+    clear: both;
+  }
+}

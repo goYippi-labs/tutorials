@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html class="no-js">
+    <head>
+		{% include html-head.html %}
+    </head>
+    <body class="default{% if page.id == 'no-navi' %} no-navi{% endif %}{% if page.id == 'home' %} home{% endif %}">
+        <!-- Header -->
+        {% include header.html %}
+
+        <section class="content">
+            <div class="inner">
+                <div class="col-1 col-25-75">
+                    <!-- Navigation -->
+                    {% comment %}
+					<nav class="navigation col-2">
+						<div class="navi-button">
+							<span>Menü</span>
+						</div>
+						<div class="navi-inner">
+							{% include navigation.html context="/" %}
+						</div>
+					</nav>
+					{% endcomment %}
+
+                    <!-- Content -->
+                    <div class="container col-2 col-right">
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        {% include footer.html %}
+    </body>
+</html>
