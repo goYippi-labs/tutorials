@@ -1,3 +1,10 @@
+/*-- Background-Images for Retina Displays --*/
+@media (-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 120dpi) {
+	.a_header .logo {
+		background-image: url("../images/logo.png");
+	}
+}
+
 /* ---- Media Queries: Smaller than 1040px ---- */
 @media screen and (max-width: $breakpoint-big) {
 	.home {
@@ -147,6 +154,10 @@
     }
 
     .header {
+				height: auto;
+				background-image: none;
+				background-color: transparent;
+
         .inner {
             &:after {
                 content: '';
@@ -158,9 +169,24 @@
             font-size: 1em;
         }
 
-        img {
-            max-height: 32px;
-        }
+				.logo {
+						float: none;
+						background-position: 0 0;
+						background-size: 200px 32px;
+						height: 32px;
+
+						img {
+								height: auto;
+								width: 200px;
+								padding: 0 0 15px;
+						}
+
+						a {
+								margin: 15px 0;
+								width: 200px;
+								height: 32px;
+						}
+				}
     }
 
 	.content {
@@ -225,4 +251,67 @@
 			margin-left: 0;
 		}
 	}
+}
+
+// Print
+@media print {
+    body {
+        font-size: 0.813em;
+    }
+    .col-1, .col-2 {
+      .link-button, .more-link, .button-box a {
+          color: $markup-color ;
+          background-color: #fff;
+          border: 1px solid $markup-color;
+      }
+    }
+
+    .inner {
+        padding: $default-padding 0;
+    }
+
+    .line {
+        margin: $default-padding 0;
+    }
+
+    .blog-box {
+        padding: 0;
+
+         &:after {
+            top: -16px;
+            right: 0px;
+        }
+    }
+
+    .header {
+        background-color: $white-color;
+        border-bottom: 3px solid $markup-color;
+
+        .inner {
+            padding: 0 0 $default-padding;
+
+            /*&:after {
+                display: none;
+                content: '';
+            }*/
+        }
+
+				h3, .h3 {
+					margin-top: 20px;
+				}
+
+        .logo {
+            background-image: none;
+            height: auto;
+
+            img {
+                height: 48px;
+                visibility: visible;
+            }
+        }
+    }
+
+    .footer {
+        display: none;
+    }
 }

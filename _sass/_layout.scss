@@ -548,6 +548,19 @@ ul.posts {
         max-height: 73px;
         width: auto;
     }
+
+    .logo {
+        background-image: url("../images/logo.png");
+        background-repeat: no-repeat;
+        background-size: 462px 73px;
+        height: 73px;
+
+        img {
+            height: 73px;
+            visibility: hidden;
+            width: auto;
+        }
+    }
 }
 
 /*.home {
