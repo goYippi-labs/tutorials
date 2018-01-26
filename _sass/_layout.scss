@@ -555,6 +555,12 @@ ul.posts {
         background-size: 462px 73px;
         height: 73px;
 
+        a {
+          display: block;
+          width: 462px;
+          height: 73px;
+        }
+
         img {
             height: 73px;
             visibility: hidden;
