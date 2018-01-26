@@ -40,9 +40,9 @@
 Old Navigation ---> Delete
 {% assign current = page.url | downcase | split: '/' %}
 <ul>
-	<li><a href="{{ site.github.url }}/" >Home</a></li>
-	<li {% if current[1] == 'about' %}class='current'{% endif %}><a href="{{ site.github.url }}/about">About</a></li>
-	<li {% if current[1] == 'team' %}class='current'{% endif %}><a href="{{ site.github.url }}/team">Team</a></li>
-	<li {% if current[1] == 'blog' %}class='current'{% endif %}><a href="{{ site.github.url }}/blog">Blog</a></li>
+	<li><a href="{{ site.url }}/" >Home</a></li>
+	<li {% if current[1] == 'about' %}class='current'{% endif %}><a href="{{ site.url }}/about">About</a></li>
+	<li {% if current[1] == 'team' %}class='current'{% endif %}><a href="{{ site.url }}/team">Team</a></li>
+	<li {% if current[1] == 'blog' %}class='current'{% endif %}><a href="{{ site.url }}/blog">Blog</a></li>
 </ul>
 {% endcomment %}
