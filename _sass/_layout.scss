@@ -158,7 +158,8 @@ a {
 }
 
 
-a.link-button, a.more-link, .button-box a {
+.link-button, .more-link, .button-box a {
+  @extend a;
 	font-family: $font-stack;
     font-size: 0.882em;
 	font-weight: 700;
@@ -181,9 +182,10 @@ a.link-button, a.more-link, .button-box a {
 }
 
 .col-1, .col-2 {
-    a.link-button, a.more-link, .button-box a {
-	   @include color-animation(background-color);
-    }
+  .link-button, .more-link, .button-box a {
+    @extend a;
+	  @include color-animation(background-color);
+  }
 }
 
 // Navigation
@@ -404,7 +406,7 @@ select {
 }
 
 button, input[type=submit] {
-    @extend a.link-button;
+    @extend .link-button;
 
 	padding-top: 8px;
     cursor: pointer;
