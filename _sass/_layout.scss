@@ -175,6 +175,7 @@ a {
     transition: background-color 0.25s;
 
     &:hover {
+        @extend a:hover;
         color: $white-color !important;
         background-color: $link-color !important;
         text-decoration: none;
