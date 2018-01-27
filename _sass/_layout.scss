@@ -545,6 +545,8 @@ ul.posts {
 
         a {
           color: $white-color !important;
+          animation: none;
+          -webkit-animation: none;
         }
     }
 
