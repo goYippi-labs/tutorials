@@ -28,9 +28,11 @@
 	}
 
 	.footer {
-    	right: 0;
-    	margin-right: 0;
-    }
+		.social-menu, .service-menu {
+			right: 20px;
+			margin-right: 0;
+		}
+  }
 }
 
 /* ---- Media Queries: Smaller than 760px ---- */
@@ -212,11 +214,23 @@
 	}
 
 	.footer {
-		position: static;
-		text-align: left;
+		.social-menu, .service-menu {
+			position: static;
+			text-align: left;
+		}
+
+		.service-menu {
+			margin-bottom: 40px;
+		}
 
 		.inner {
 			padding: 40px 20px;
+		}
+
+		ul {
+			li {
+					margin: 0 20px 0 0;
+			}
 		}
 
 		a {
