@@ -37,11 +37,7 @@
 
 /* ---- Media Queries: Smaller than 760px ---- */
 @media (max-width: $breakpoint-medium) {
-	body {
-		background-color: $goyippi-dark-grey;
-	}
-
-    .inner,
+  .inner,
 	.home .header .inner {
         padding: 15px $default-padding;
     }
@@ -214,17 +210,20 @@
 	}
 
 	.footer {
+		.no-wrap {
+			display: block;
+			margin-right: 0;
+		}
+
 		.social-menu, .service-menu {
 			position: static;
 			text-align: left;
 		}
 
 		.service-menu {
+			border-top: 1px solid $white-color;
+			padding-top: 20px;
 			margin-bottom: 40px;
-		}
-
-		.inner {
-			padding: 40px 20px;
 		}
 
 		ul {
@@ -283,7 +282,12 @@
         padding: $default-padding 0;
     }
 
+		hr {
+				border-color: $text-color;
+		}
+
     .line {
+				border-color: $text-color;
         margin: $default-padding 0;
     }
 
@@ -298,7 +302,7 @@
 
     .header {
         background-color: $white-color;
-        border-bottom: 3px solid $markup-color;
+        border-bottom: 3px solid $text-color;
 
         .inner {
             padding: 0 0 $default-padding;
@@ -325,6 +329,27 @@
     }
 
     .footer {
-        display: none;
+				color: $text-color;
+				border-top: 3px solid $text-color;
+
+				h3 {
+					color: $text-color;
+				}
+
+				a {
+		        color: $text-color;
+
+		        &:hover {
+		            color: $text-color !important;
+		        }
+		    }
+
+				.no-wrap {
+					display: block;
+				}
+
+				.service-menu, .social-menu {
+					display: none;
+				}
     }
 }

@@ -46,7 +46,7 @@ body {
     box-sizing: border-box;
     font-kerning: normal;
     -webkit-text-size-adjust: none;
-    background-color: $white-color;
+    background-color: $goyippi-dark-grey;
 }
 
 .inner {
@@ -286,6 +286,10 @@ strong, b {
 
 em, italic {
     font-style: italic;
+}
+
+.no-wrap {
+  white-space: nowrap;
 }
 
 blockquote, .quote {
@@ -615,11 +619,18 @@ ul.posts {
 
 // Footer
 .footer {
-	text-align: right;
+  color: $white-color;
 
-	.inner {
-		padding: 0;
-	}
+  .no-wrap {
+    margin-right: 10px;
+  }
+
+  h3 {
+    animation: none;
+    -webkit-animation: none;
+    font-weight: 700;
+    color: $white-color;
+  }
 
     a {
         animation: none;
@@ -642,6 +653,7 @@ ul.posts {
     }
 
     .social-menu, .service-menu {
+      text-align: right;
       position: absolute;
       top: 20px;
       right: 50%;
