@@ -638,7 +638,7 @@ ul.posts {
         color: $white-color;
 
         &:hover {
-            color: $white-color !important;
+            color: $goyippi-light-tan !important;
         }
     }
 
@@ -658,6 +658,12 @@ ul.posts {
       top: 20px;
       right: 50%;
       margin-right: -500px;
+
+      a {
+        &:hover {
+          color: $white-color !important;
+        }
+      }
     }
 
     .service-menu {

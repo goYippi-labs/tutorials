@@ -218,6 +218,12 @@
 		.social-menu, .service-menu {
 			position: static;
 			text-align: left;
+
+			a {
+				&:hover {
+					color: $goyippi-light-tan !important;
+				}
+			}
 		}
 
 		.service-menu {
@@ -229,14 +235,6 @@
 		ul {
 			li {
 					margin: 0 16px 0 0;
-			}
-		}
-
-		a {
-			color: $goyippi-light-grey;
-
-			&:hover {
-				color: $goyippi-light-tan !important;
 			}
 		}
 	}
