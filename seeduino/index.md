@@ -15,7 +15,7 @@ Um den Seeduino in Betrieb zu nehmen, benötigst Du ein Micro-USB-Kabel, die Ard
 Der Seeduino ist ein Klon des Arduino Uno-Boards.  
 Alle wichtigen Informationen zum Board findest Du in diesem Wiki:
 
-[» wiki.seeedstudio.com/wiki/Seeeduino_v4.0](http://wiki.seeedstudio.com/wiki/Seeeduino_v4.0)
+[» wiki.seeedstudio.com/Seeeduino_v4.0](http://wiki.seeedstudio.com/Seeeduino_v4.0/)
 
 ---
 
@@ -67,4 +67,3 @@ Ich habe damals folgendes Buch bei der Bücherei gefunden:
 
 **Arduino für Einsteiger von Massimo Banzi**  
 [» www.amazon.de/dp/3868992324](https://www.amazon.de/dp/3868992324)
-
