@@ -30,12 +30,12 @@ Der Cache wird bei einem sogenannten **Hard Reload** ignoriert.
 ## Cache leeren
 
 * **Firefox (Version 4 bis 67):**
-  * Drücke die Tasten Strg + Shift + Entf (Apple: Cmd + Shift + Entf)
+  * Drücke die Tasten Strg + Shift + Entf (Mac: Cmd + Shift + Entf)
   * Es öffnet sich ein neues Fenster
   * Aktiviere die Option "Cache" und klicke dann auf "Jetzt löschen"
 
 * **Chrome:**
-  * Drücke die Tasten Strg + Shift + Entf (Apple: Cmd + Shift + Entf)
+  * Drücke die Tasten Strg + Shift + Entf (Mac: Cmd + Shift + Entf)
   * Wähle bei "Folgendes für diesen Zeitraum löschen" den Eintrag "Gesamter Zeitraum"
   * Aktiviere "Bilder und Dateien im Cache" und klicke dann auf "Browserdaten löschen"
 
@@ -51,7 +51,7 @@ Der Cache wird bei einem sogenannten **Hard Reload** ignoriert.
   * Wähle "Temporäre Internetdateien" und klicke dann auf "Löschen"
 
 * **Opera:**
-  * Drücke die Tasten Strg + Shift + Entf (Apple: Cmd + Shift + Entf)
+  * Drücke die Tasten Strg + Shift + Entf (Mac: Cmd + Shift + Entf)
   * Es öffnet sich ein neues Fenster. Wähle den Zeitraum "seit der Installation"
   * Aktiviere die Optionen "Browserverlauf", "Downloadverlauf", "Cookies und andere Websitedaten", "Bilder und Dateien im Cache" sowie "Drittanbieter-Dienstdaten"
   * Klicke unten im Fenster auf den Button "Browserdaten löschen"
