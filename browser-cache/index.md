@@ -32,28 +32,28 @@ Der Cache wird bei einem sogenannten **Hard Reload** ignoriert.
 * **Firefox (Version 4 bis 67):**
   * Drücke die Tasten Strg + Shift + Entf (Mac: Cmd + Shift + Entf)
   * Es öffnet sich ein neues Fenster
-  * Aktiviere die Option "Cache" und klicke dann auf "Jetzt löschen"
+  * Aktiviere die Option „Cache“ und klicke dann auf „Jetzt löschen“
 
 * **Chrome:**
   * Drücke die Tasten Strg + Shift + Entf (Mac: Cmd + Shift + Entf)
-  * Wähle bei "Folgendes für diesen Zeitraum löschen" den Eintrag "Gesamter Zeitraum"
-  * Aktiviere "Bilder und Dateien im Cache" und klicke dann auf "Browserdaten löschen"
+  * Wähle bei „Folgendes für diesen Zeitraum löschen“ den Eintrag „Gesamter Zeitraum“
+  * Aktiviere „Bilder und Dateien im Cache“ und klicke dann auf „Browserdaten löschen“
 
 * **Safari:**
   * Drücke die Tasten Cmd + Alt + E
 
 * **Microsoft Edge:**
   * Drücke die Tasten Strg + Shift + Entf
-  * Wähle "Zwischengespeicherte Daten und Dateien" und klicke dann auf "Löschen"
+  * Wähle „Zwischengespeicherte Daten und Dateien“ und klicke dann auf „Löschen“
 
 * **Microsoft Internet Explorer (IE9, IE10 und IE 11):**
   * Drücke die Tasten Strg + Shift + Entf
-  * Wähle "Temporäre Internetdateien" und klicke dann auf "Löschen"
+  * Wähle „Temporäre Internetdateien“ und klicke dann auf „Löschen“
 
 * **Opera:**
   * Drücke die Tasten Strg + Shift + Entf (Mac: Cmd + Shift + Entf)
-  * Es öffnet sich ein neues Fenster. Wähle den Zeitraum "seit der Installation"
-  * Aktiviere die Optionen "Browserverlauf", "Downloadverlauf", "Cookies und andere Websitedaten", "Bilder und Dateien im Cache" sowie "Drittanbieter-Dienstdaten"
-  * Klicke unten im Fenster auf den Button "Browserdaten löschen"
+  * Es öffnet sich ein neues Fenster. Wähle den Zeitraum „seit der Installation“
+  * Aktiviere die Optionen „Browserverlauf“, „Downloadverlauf“, „Cookies und andere Websitedaten“, „Bilder und Dateien im Cache“ sowie „Drittanbieter-Dienstdaten“
+  * Klicke unten im Fenster auf den Button „Browserdaten löschen“
 
 Quelle: [» www.go4u.de/browser-cache-leeren.htm](https://www.go4u.de/browser-cache-leeren.htm)
