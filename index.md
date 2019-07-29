@@ -18,4 +18,4 @@ In der Zwischenzeit könnt Ihr gerne unsere Webseite besuchen
 
 # FAQs
 
-» [Browser-Cache leeren oder ignorieren]({{site.url}}/browser-cache)
+» [Browser-Cache leeren oder ignorieren]({{site.baseurl}}/browser-cache)
