@@ -22,7 +22,7 @@ Der Browser-Cache ist ein Zwischenspeicher des Webbrowsers, in dem bereits abger
 
 Der Cache wird bei einem sogenannten **Hard Reload** ignoriert.
 
-* **Mac:** Ctrl + Shift + R oder Shift-Taste beim Reload gedrückt halten
+* **Mac:** Cmd + Shift + R oder Shift-Taste beim Reload gedrückt halten
 * **Win:** Shift + F5 oder Shift-Taste beim Reload gedrückt halten
 
 ---
