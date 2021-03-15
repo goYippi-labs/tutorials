@@ -18,4 +18,5 @@ In der Zwischenzeit könnt Ihr gerne unsere Webseite besuchen
 
 # FAQs
 
-» [Browser-Cache leeren oder ignorieren]({{site.baseurl}}/browser-cache)
+» [Browser-Cache leeren oder ignorieren]({{site.baseurl}}/browser-cache)<br />
+» [E-Mails auf eine Whitelist setzen]({{site.baseurl}}/e-mail-whitelist)
