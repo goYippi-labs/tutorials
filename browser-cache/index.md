@@ -57,3 +57,14 @@ Der Cache wird bei einem sogenannten **Hard Reload** ignoriert.
   * Klicke unten im Fenster auf den Button „Browserdaten löschen“
 
 Quelle: [» www.go4u.de/browser-cache-leeren.htm](https://www.go4u.de/browser-cache-leeren.htm)
+
+* **iOS - Safari App:**
+  * Gehe zu „Einstellungen“ > „Safari“ > „Erweitert“ > „Website-Daten“
+  * Tippe anschließend auf „Alle Website-Daten entfernen“
+
+* **Android - Chrome App:**
+  * Öffne die Chrome App Chrome
+  * Tippe rechts oben auf das Symbol "Mehr" (Dreipunkt-Menü)
+  * Tippe auf Verlauf und dann Browserdaten löschen
+  * Wähle oben einen Zeitraum aus. Um alles zu löschen, wähle „Gesamte Zeit“ aus
+  * Aktiviere „Bilder und Dateien im Cache“ und klicke dann auf „Browserdaten löschen“
