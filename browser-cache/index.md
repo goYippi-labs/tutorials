@@ -60,6 +60,9 @@ Der Cache wird bei einem sogenannten **Hard Reload** ignoriert.
 
 Quelle: [» www.go4u.de/browser-cache-leeren.htm](https://www.go4u.de/browser-cache-leeren.htm)
 
+<div class="divider clear"></div>
+<div class="divider clear"></div>
+
 ### Tablet/Smartphone
 
 * **iOS - Safari App:**
