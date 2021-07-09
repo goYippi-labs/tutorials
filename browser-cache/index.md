@@ -29,6 +29,8 @@ Der Cache wird bei einem sogenannten **Hard Reload** ignoriert.
 
 ## Cache leeren
 
+### Desktop
+
 * **Firefox (Version 4 bis 67):**
   * Drücke die Tasten Strg + Shift + Entf (Mac: Cmd + Shift + Entf)
   * Es öffnet sich ein neues Fenster
@@ -57,6 +59,8 @@ Der Cache wird bei einem sogenannten **Hard Reload** ignoriert.
   * Klicke unten im Fenster auf den Button „Browserdaten löschen“
 
 Quelle: [» www.go4u.de/browser-cache-leeren.htm](https://www.go4u.de/browser-cache-leeren.htm)
+
+### Tablet/Smartphone
 
 * **iOS - Safari App:**
   * Gehe zu „Einstellungen“ > „Safari“ > „Erweitert“ > „Website-Daten“
