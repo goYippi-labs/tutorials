@@ -12,7 +12,7 @@ id: home
 Die WordPress Tutorials sollen es unseren Kunden erleichtern, Ihre Arbeit mit WordPress zu starten. Aber es sind natürlich auch alle anderen Interessierten willkommen, die einen Einstieg in WordPress suchen.
 
 <div class="button-box">
-  <a href="/wordpress/">» Zu den WordPress Tutorials</a>
+  <a href="/tutorials/wordpress/">» Zu den WordPress Tutorials</a>
 </div>
 
 <div class="clear divider"></div>

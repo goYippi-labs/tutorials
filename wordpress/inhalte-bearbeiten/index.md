@@ -163,5 +163,5 @@ Bei Seiten gibt es die Möglichkeit in der Seitespalte Seitensttribute festzuleg
 Zum andere kann festgelegt werden, in welcher Reihenfolge die Seiten auf der Seitenübersicht erscheinen. Dazu wird in das Feld "Reihenfolge" eine Ziffer eingegeben. Je kleiner die Zahl, desto weiter oben wird die Seite gelistet.
 
 <div class="box">
-<strong>Wichtig:</strong> Die Angabe der Reihenfolge hat keine Auswirkung auf die Darstellung im Menü. Ebenso hat die Veröffentlichung einer Seite keine Auswirkung auf die Menü-Darstellung. Mehr zu diesem Theme unter dem Punkt "<a href="/wordpress/menu-bearbeiten">Menü bearbeiten</a>".
+<strong>Wichtig:</strong> Die Angabe der Reihenfolge hat keine Auswirkung auf die Darstellung im Menü. Ebenso hat die Veröffentlichung einer Seite keine Auswirkung auf die Menü-Darstellung. Mehr zu diesem Theme unter dem Punkt "<a href="/tutorials/wordpress/menu-bearbeiten">Menü bearbeiten</a>".
 </div>
