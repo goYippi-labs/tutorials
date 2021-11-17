@@ -144,7 +144,6 @@ body {
 
 .content {
     background-color: $white-color;
-
 }
 
 // Columns
@@ -172,41 +171,41 @@ body {
 }
 
 .col-25-75 {
-    .col-2 {
+    & > .col-2 {
         width: 20%;
     }
 
-    .col-right {
+    & > .col-right {
         width: 75%;
     }
 }
 
 .col-75-25 {
-    .col-2 {
+    & > .col-2 {
         width: 75%;
     }
 
-    .col-right {
+    & > .col-right {
         width: 20%;
     }
 }
 
 .col-30-60 {
-    .col-2 {
+    & > .col-2 {
         width: 30%;
     }
 
-    .col-right {
+    & > .col-right {
         width: 65%;
     }
 }
 
 .col-60-30 {
-    .col-2 {
+    & > .col-2 {
         width: 65%;
     }
 
-    .col-right {
+    & > .col-right {
         width: 30%;
     }
 }
@@ -250,7 +249,7 @@ a {
     font-size: 0.882em;
 	font-weight: 700;
     letter-spacing: 0.025em;
-	color: $white-color;
+	color: $white-color !important;
     padding: 5px 15px 5px;
 	background-color: $markup-color;
 	@include color-animation(background-color);
@@ -385,12 +384,25 @@ blockquote, .quote {
 }
 
 ul, ol {
-    margin: 0 0 8px;
+    margin: 0 0 20px;
 
     li {
         list-style: disc outside none;
         margin: 2px 0 2px 0.9em;
     }
+}
+
+.container {
+  ul {
+      li.nav-item {
+          list-style: none;
+          margin-left: 0;
+
+          a:before {
+            content: '» ';
+          }
+      }
+  }
 }
 
 ol {
@@ -399,9 +411,27 @@ ol {
     }
 }
 
+ol ul {
+    li {
+        list-style: disc outside none;
+    }
+}
+
 img {
     max-width: 100%;
     height: auto;
+
+    &.alignright {
+      float: right;
+      margin-left: $default-padding;
+      margin-bottom: $default-padding;
+    }
+
+    &.alignleft {
+      float: left;
+      margin-right: $default-padding;
+      margin-bottom: $default-padding;
+    }
 }
 
 dt {
@@ -544,6 +574,13 @@ ul.posts {
         margin: 0;
         list-style: none;
     }
+}
+
+.box {
+  padding: $default-padding $default-padding $default-padding;
+  border: 1px solid $markup-color;
+  margin-bottom: $default-padding;
+  @include color-animation(border-color);
 }
 
 .blog-box {
@@ -696,7 +733,7 @@ ul.posts {
 
 .home {
 	.col-25-75 {
-		.col-right {
+		& > .col-right {
 			width: 100%;
 			float: none;
 		}

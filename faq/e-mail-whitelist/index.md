@@ -1,8 +1,7 @@
 ---
 layout: default
-title: E-Mail auf eine Whitelist setzen
+title: E-Mail-Whitelist
 order: 1
-id: no-navi
 ---
 
 * TOC

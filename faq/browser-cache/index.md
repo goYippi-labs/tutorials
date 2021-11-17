@@ -2,7 +2,6 @@
 layout: default
 title: Browser-Cache
 order: 0
-id: no-navi
 ---
 
 * TOC

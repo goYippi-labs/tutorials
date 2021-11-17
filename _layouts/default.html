@@ -10,17 +10,17 @@
         <section class="content">
             <div class="inner">
                 <div class="col-1 col-25-75">
+                    {% if page.id != 'no-navi' and page.id != 'home' %}
                     <!-- Navigation -->
-                    {% comment %}
-					<nav class="navigation col-2">
-						<div class="navi-button">
-							<span>Menü</span>
-						</div>
-						<div class="navi-inner">
-							{% include navigation.html context="/" %}
-						</div>
-					</nav>
-					{% endcomment %}
+          					<nav class="navigation col-2">
+          						<div class="navi-button">
+          							<span>Menü</span>
+          						</div>
+          						<div class="navi-inner">
+          							{% include navigation.html context="/" %}
+          						</div>
+          					</nav>
+                    {% endif %}
 
                     <!-- Content -->
                     <div class="container col-2 col-right">

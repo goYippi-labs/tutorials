@@ -24,11 +24,13 @@
         {% capture slug    %}{{ entry.url | split: "/"   | last                       }}{% endcapture %}
         {% capture current %}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
 
-        {% if current == include.context %}
+        {% if current == include.context and entry.id != 'no-navi' %}
             <li class="nav-item{% if page.url contains entry.url %} active{% endif %}">
                 {% capture subMenu %}{% include navigation.html context=entry.url %}{% endcapture %}
-                    <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
-                {{ subMenu }}
+                <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+                {% if page.url contains entry.url and entry.id != 'no-subnavi' %}
+                  {{ subMenu }}
+                {% endif %}
             </li>
         {% endif %}
     {% endfor %}

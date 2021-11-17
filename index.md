@@ -4,19 +4,31 @@ title: Home
 id: home
 ---
 
-# Tutorials
+# WordPress Tutorials
 
-**In der Zukunft werden wir an dieser Stelle Tutorials zum Thema Wordpress zur Verfügung stellen.**
+<div class="col-1">
+<div class="col-2">
 
-In der Zwischenzeit könnt Ihr gerne unsere Webseite besuchen
+Die WordPress Tutorials sollen es unseren Kunden erleichtern, Ihre Arbeit mit WordPress zu starten. Aber es sind natürlich auch alle anderen Interessierten willkommen, die einen Einstieg in WordPress suchen.
 
 <div class="button-box">
-	<a href="https://www.goyippi.net">» www.goyippi.net</a>
+  <a href="/wordpress/">» Zu den WordPress Tutorials</a>
+</div>
+
+<div class="clear divider"></div>
+
+</div>
+<div class="col-2 col-right">
+
+{% capture subMenu %}{% include navigation.html context='/wordpress/' %}{% endcapture %}
+{{ subMenu }}
+
+</div>
 </div>
 
 ---
 
 # FAQs
 
-[» Browser-Cache leeren oder ignorieren]({{site.baseurl}}/browser-cache)<br />
-[» E-Mails auf eine Whitelist setzen]({{site.baseurl}}/e-mail-whitelist)
+{% capture subMenu %}{% include navigation.html context='/faq/' %}{% endcapture %}
+{{ subMenu }}
