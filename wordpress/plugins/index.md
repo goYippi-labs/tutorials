@@ -15,5 +15,5 @@ Je nach Theme und Benutzerrolle kann es sein, dass Du keinen Zugriff auf diesen 
 ![alt text](plugins.jpg "Screen der Pluginübersicht")
 
 <div class="box">
-<strong>Wichtig:</strong> Du solltest nur Plugins installieren und deinstallieren, wenn Du ein entsprechendes Wissen über WordPress, PHP und Datenbanken mitbringst. Nicht jedes Plugin ist sauber programmiert und die Installation kann zu Fehlermeldungen auf der Webseite führen! Ebenso kann eine Deinstallation eines Plugins dazu führen, dass die Webseiten ebenfalls nicht mehr richtig funktioniert oder Fehler ausgibt!
+<strong>Wichtig:</strong> Du solltest nur Plugins installieren und deinstallieren, wenn Du ein entsprechendes Wissen über WordPress, PHP und Datenbanken mitbringst. Nicht jedes Plugin ist sauber programmiert und die Installation kann zu Fehlermeldungen auf der Webseite führen! Ebenso kann eine Deinstallation eines Plugins dazu führen, dass die Webseiten nicht mehr richtig funktioniert oder Fehler ausgibt!
 </div>
