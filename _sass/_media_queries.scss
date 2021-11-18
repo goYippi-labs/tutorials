@@ -268,13 +268,18 @@
     body {
         font-size: 0.813em;
     }
-    .col-1, .col-2 {
+
+		.col-1, .col-2 {
       .link-button, .more-link, .button-box a {
           color: $markup-color ;
           background-color: #fff;
           border: 1px solid $markup-color;
       }
     }
+
+		.navigation {
+			display: none;
+		}
 
     .inner {
         padding: $default-padding 0;
@@ -318,9 +323,16 @@
         .logo {
             background-image: none;
             height: auto;
+						width: auto;
+
+						a {
+							display: inline;
+						}
 
             img {
                 height: 48px;
+								max-height: 48px;
+								width: 304px;
                 visibility: visible;
             }
         }
