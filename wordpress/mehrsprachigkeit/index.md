@@ -22,6 +22,8 @@ Für die Mehrsprachigkeit wird also pro gewünschter Sprache eine WordPress-Seit
 
 Der Zugang zu den einzelnen Übersetzungen funktioniert dann über das Menü "Meine Seiten" links oben in der Kopfzeile des Adminbereichs.
 
+Sollte dieses Menü bei Deiner WordPress-Installation fehlen, wurde keine Multisite eingerichtet.
+
 ---
 
 ## Übersetzungen verknüpfen
