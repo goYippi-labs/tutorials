@@ -6,7 +6,7 @@ id: home
 
 # WordPress Tutorials
 
-<div class="col-1">
+<div class="col-1 col-75-25">
 <div class="col-2">
 
 Die WordPress Tutorials sollen es unseren Kunden erleichtern, Ihre Arbeit mit WordPress zu starten. Aber es sind natürlich auch alle anderen Interessierten willkommen, die einen Einstieg in WordPress suchen.
