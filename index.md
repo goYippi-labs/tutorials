@@ -4,10 +4,10 @@ title: Home
 id: home
 ---
 
-# WordPress Tutorials
-
 <div class="col-1 col-75-25">
 <div class="col-2">
+
+<h1 id="wordpress-tutorials">WordPress Tutorials</h1>
 
 Die WordPress Tutorials sollen es unseren Kunden erleichtern, Ihre Arbeit mit WordPress zu starten. Aber es sind natürlich auch alle anderen Interessierten willkommen, die einen Einstieg in WordPress suchen.
 
