@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Plugins
-order: 11
+order: 12
 ---
 
 ## Plugins
