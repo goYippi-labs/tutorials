@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Browser-Cache
+title: Wie leere ich den Browser-Cache?
 order: 0
 ---
 

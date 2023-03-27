@@ -1,6 +1,6 @@
 ---
 layout: default
-title: E-Mail-Whitelist
+title: Was ist eine E-Mail-Whitelist?
 order: 1
 ---
 
