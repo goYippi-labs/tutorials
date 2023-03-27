@@ -11,7 +11,7 @@ order: 2
 
 Seit WordPress 5.0 wurde der alte TinyMCE-Editor (Classic Editor) durch den Block-Editor ersetzt. Dadurch hat sich die Arbeit mit Inhalten grundlegend geändert. Während der klassische Editor im Grunde genommen nur ein Textfeld darstellt, in dem Inhalte ausgezeichnet werden können, kannst Du im Block-Editor weitgreifendere Layout-Entscheidungen treffen und in einer Umgebung arbeiten, die mit der Darstellung auf der Webseite identisch ist.
 
-Sollte Deine Webseite noch den klassischen Editor anzeigen, so geschieht das durch das Plugin "Classic Editor". Der klassische Editor wird noch bis Ende 2023 von WordPress unterstützt.
+Sollte Deine Webseite noch den klassischen Editor anzeigen, so geschieht das durch das Plugin "Classic Editor". Der klassische Editor wird noch bis Ende 2024 von WordPress unterstützt.
 
 **Classic Editor**
 
