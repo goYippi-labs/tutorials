@@ -26,7 +26,7 @@ Nach dem Einloggen wird das Dashboard von CleverReach angezeigt.
 
 Über die Menüleiste links erhält man Zugriff auf die wichtigsten Bereiche:
 
-* Empfänger: [Hier werden die Newsletter-Abonnenten verwaltet](/cleverreach/abonnenten-verwalten).
-* E-Mails: [Hier werden die jeweiligen Newsletter erstellt](/cleverreach/newsletter-erstellen).
+* Empfänger: [Hier werden die Newsletter-Abonnenten verwaltet](/tutorials/cleverreach/abonnenten-verwalten).
+* E-Mails: [Hier werden die jeweiligen Newsletter erstellt](/tutorials/cleverreach/newsletter-erstellen).
 * Formulare: Hier werden die An- und Abmeldeformulare für die Empfängerlisten verwaltet
-* Reports & Analysen: Hier können Statistiken der letzten versendeten Newsletter eingesehen werden. [Außerdem gibt es hier die Möglichkeit, einen versendeten Newsletter zu duplizieren und erneut zu versenden.](/cleverreach/newsletter-erstellen#newsletter-duplizieren).
+* Reports & Analysen: Hier können Statistiken der letzten versendeten Newsletter eingesehen werden. [Außerdem gibt es hier die Möglichkeit, einen versendeten Newsletter zu duplizieren und erneut zu versenden](/tutorials/cleverreach/newsletter-erstellen#newsletter-duplizieren).
