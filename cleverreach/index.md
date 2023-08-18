@@ -1,12 +1,8 @@
 ---
 layout: default
-title: CleverReach
-order: 0
-id: only-subnavi
+title: CleverReach Tutorials
+order: 1
 ---
-
-* TOC
-{:toc}
 
 ## CleverReach Login
 

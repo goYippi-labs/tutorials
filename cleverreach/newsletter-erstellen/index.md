@@ -2,7 +2,6 @@
 layout: default
 title: Newsletter erstellen
 order: 1
-id: only-subnavi
 ---
 
 * TOC

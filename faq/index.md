@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQs
-order: 1
+order: 2
 id: no-subnavi
 ---
 

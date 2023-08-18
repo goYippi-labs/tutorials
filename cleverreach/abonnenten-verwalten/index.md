@@ -2,7 +2,6 @@
 layout: default
 title: Abonnenten verwalten
 order: 0
-id: only-subnavi
 ---
 
 * TOC
@@ -34,7 +33,7 @@ Mit einem Klick auf den Button "Einzelner Empfänger" öffnet sich ein Pop-Up, i
 
 <div class="box">
 <strong>Wichtig:</strong> Wenn nur eine Empfängerlisten angelegt werden kann, kann diese Liste segmentiert werden, um verschiedene Newsletter an unterschiedliche Gruppen zu senden.<br><br>
-<strong>Bitte die Segmente immer beim manuellen Anlegen eines Empfängers eintragen!</strong>
+<strong>Wenn mit Segmenten gearbeitet wird, müssen die Segmente immer beim manuellen Anlegen eines Empfängers eintragen werden!</strong>
 </div>
 
 ---
@@ -43,11 +42,8 @@ Mit einem Klick auf den Button "Einzelner Empfänger" öffnet sich ein Pop-Up, i
 
 Idealerweise sollten die Empfänger <strong>nicht</strong> manuell hinzugefügt werden, sondern sich über ein Formular selbst eintragen.
 
-Das entsprechende <strong>Anmeldeformular</strong> ist unter folgender URL zu finden:<br>
-[» seu2.cleverreach.com/f/337654-346018/](https://seu2.cleverreach.com/f/337654-346018/)
-
-Das <strong>Abmeldeformular</strong> ist unter folgender URL zu finden:<br>
-[» seu2.cleverreach.com/f/337654-346018/wwu/](https://seu2.cleverreach.com/f/337654-346018/wwu/)
+Dazu muss unter dem Menüpunkt "Formulare" ein An- und Abmeldeformular für die Empfängerliste angelegt werden.
+Die URL zu den Formularen findet sich dann unter: Formulare >> Formular-Titel >> Quellcode/Verbreitung
 
 ---
 
