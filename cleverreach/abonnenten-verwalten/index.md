@@ -20,7 +20,7 @@ id: only-subnavi
 
 ---
 
-## Abonnenten manuell hinzufügen
+## Manuell hinzufügen
 
 Über den Reiter "Daten hinzufügen" können die Empfänger zur Liste hinzugefügt werden. Dabei können einzelne Adressen von hand eingetragen werden, oder eine komplette CSV-Datei mit einer existierenden Liste importiert werden.
 
@@ -44,7 +44,7 @@ Für den Dieser-Newsletter gibt es folgende Segmente:
 
 ---
 
-## Abonnenten per Formular hinzufügen
+## Per Formular hinzufügen
 
 Idealerweise sollten die Empfänger <strong>nicht</strong> manuell hinzugefügt werden, sondern sich über ein Formular selbst eintragen.
 
