@@ -51,5 +51,9 @@ Die WordPress Tutorials sollen es unseren Kunden erleichtern, Ihre Arbeit mit Wo
 {% capture subMenu %}{% include navigation.html context='/faq/' %}{% endcapture %}
 {{ subMenu }}
 
+<div class="button-box">
+  <a href="/tutorials/faq/">» Zu den FAQs</a>
+</div>
+
 </div>
 </div>
