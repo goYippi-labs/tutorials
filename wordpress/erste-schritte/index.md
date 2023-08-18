@@ -71,7 +71,7 @@ Unter Medien findest Du alle Dateien, die in Deiner WordPress-Installation hochg
 
 Das können Bilder sein (.jpg, .png, .gif), wie auch andere Dateiformate (.pdf, .doc, .docx), oder auch Videos oder Audiodateien (.mp3, .m4v, .mp4v).
 
-[» Mehr Informationen zur Mediathek](/tutorials/wordpress/mediathek)
+[» Mehr Informationen zur Mediathek]({{ site.baseurl }}/wordpress/mediathek)
 
 **3. Seiten**
 
