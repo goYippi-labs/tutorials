@@ -10,21 +10,23 @@ id: only-subnavi
 
 ## CleverReach Login
 
-Den Login zum CleverReach-Adminbereich finden Sie unter folgender URL:
+Der Login zum CleverReach-Adminbereich findet sich unter folgender URL:
 
 [» eu2.cleverreach.com/admin/login.php](https://eu2.cleverreach.com/admin/login.php)
 
-Zum Login benötigen Sie die Kundennummer, den Benutzernamen (mit dem Account verknüpfte Mailadresse) und das Passwort
+Zum Login benötigt man die Kundennummer, den Benutzernamen (mit dem Account verknüpfte Mailadresse) und das Passwort
 
 ---
 
 ## Das Dashboard
 
-Nach dem Einloggen sehen Sie das Dashboard von CleverReach. 
+Nach dem Einloggen wird das Dashboard von CleverReach angezeigt. 
 
 ![alt text](dashboard-screen.png "Screen des CleverReach-Dashboards")
 
-Über die Menüleiste links erhalten Sie Zugriff auf die beiden wichtigsten Bereiche:
+Über die Menüleiste links erhält man Zugriff auf die wichtigsten Bereiche:
 
-* Empfänger: [Hier verwalten Sie die Newsletter-Abonnenten](/cleverreach/abonnenten-verwalten).
-* E-Mails: [Hier erstellen Sie den jeweiligen Newsletter](/cleverreach/newsletter-erstellen).
+* Empfänger: [Hier werden die Newsletter-Abonnenten verwaltet](/cleverreach/abonnenten-verwalten).
+* E-Mails: [Hier werden die jeweiligen Newsletter erstellt](/cleverreach/newsletter-erstellen).
+* Formulare: Hier werden die An- und Abmeldeformulare für die Empfängerlisten verwaltet
+* Reports & Analysen: Hier können Statistiken der letzten versendeten Newsletter eingesehen werden. Außerdem gibt es hier die Möglichkeit, einen versendeten Newsletter zu duplizieren und erneut zu versenden.
