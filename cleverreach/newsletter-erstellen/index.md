@@ -16,7 +16,7 @@ Die Übersicht zeigt immer die noch nicht versendeten Newsletter. Versendete New
 
 ![alt text](newsletter-verwalten.png "Screen der Übersicht Newsletter")
 
-Nach dem Klick auf den Button erscheint eine Abfrage über das Format der zu erstellenden E-Mail. Das ist eigentlich immer ein "einfahcer Newsletter". Mit einem Klick auf "Los geht's" startet die Erstellung des Newsletters.
+Nach dem Klick auf den Button erscheint eine Abfrage über das Format der zu erstellenden E-Mail. Das ist eigentlich immer ein "einfacher Newsletter". Mit einem Klick auf "Los geht's" startet die Erstellung des Newsletters.
 
 ![alt text](newsletter-erstellen.png "Screen Newsletter erstellen")
 

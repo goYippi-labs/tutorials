@@ -22,7 +22,7 @@ id: only-subnavi
 
 ## Manuell hinzufügen
 
-Über den Reiter "Daten hinzufügen" können die Empfänger zur Liste hinzugefügt werden. Dabei können einzelne Adressen von hand eingetragen werden, oder eine komplette CSV-Datei mit einer existierenden Liste importiert werden.
+Über den Reiter "Daten hinzufügen" können die Empfänger zur Liste hinzugefügt werden. Dabei können einzelne Adressen von Hand eingetragen werden, oder eine komplette CSV-Datei mit einer existierenden Liste importiert werden.
 
 ![alt text](empfaenger-hinzufuegen.png "Screen Empfänger hinzufügen")
 
@@ -34,11 +34,6 @@ Mit einem Klick auf den Button "Einzelner Empfänger" öffnet sich ein Pop-Up, i
 
 <div class="box">
 <strong>Wichtig:</strong> Wenn nur eine Empfängerlisten angelegt werden kann, kann diese Liste segmentiert werden, um verschiedene Newsletter an unterschiedliche Gruppen zu senden.<br><br>
-Für den Dieser-Newsletter gibt es folgende Segmente:
-<ul>
-    <li>Moderationspool Prenzlau</li>
-    <li>Newsletter Engagierte Stadt Prenzlau</li>
-</ul>
 <strong>Bitte die Segmente immer beim manuellen Anlegen eines Empfängers eintragen!</strong>
 </div>
 
