@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Newsletter erstellen
-order: 0
+order: 1
 id: only-subnavi
 ---
 
