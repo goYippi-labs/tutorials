@@ -43,8 +43,11 @@ Mit einem Klick auf den Button "Einzelner Empfänger" öffnet sich ein Pop-Up, i
 
 Idealerweise sollten die Empfänger <strong>nicht</strong> manuell hinzugefügt werden, sondern sich über ein Formular selbst eintragen.
 
-Das entsprechende Anmeldeformular ist unter folgender URL zu finden:<br>
+Das entsprechende <strong>Anmeldeformular</strong> ist unter folgender URL zu finden:<br>
 [» seu2.cleverreach.com/f/337654-346018/](https://seu2.cleverreach.com/f/337654-346018/)
+
+Das <strong>Abmeldeformular</strong> ist unter folgender URL zu finden:<br>
+[» seu2.cleverreach.com/f/337654-346018/wwu/](https://seu2.cleverreach.com/f/337654-346018/wwu/)
 
 ---
 
