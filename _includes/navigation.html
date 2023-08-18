@@ -19,7 +19,13 @@
         </li>
     {% endif %}
 
-    {% assign entries = site.pages | sort: "order" %}
+    {% assign current_slug = page.url | split: "/" %}
+
+    {% if page.id == 'only-subnavi' %}
+        {% assign entries = site.pages | sort: "order" | where_exp: "p", "p.url contains current_slug[1]" %}
+    {% else %}
+        {% assign entries = site.pages | sort: "order" | where_exp: "p", "p.id != 'only-subnavi'" %}
+    {% endif %}
     {% for entry in entries %}
         {% capture slug    %}{{ entry.url | split: "/"   | last                       }}{% endcapture %}
         {% capture current %}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
