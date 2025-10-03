@@ -91,7 +91,7 @@ Hier sind die Unterpunkte "Menüs" und "Widgets" für die Bearbeitung wichtig.
 
 Unter Menüs kannst Du die unterschiedlichen Menüs Deiner Webseite verwalten, Menüpunkte löschen und hinzufügen.
 
-Unter Widgets kannst Du die Widget-Seitenspalte auf den Blog-/News-Seiten editieren. Widgets sind kleine Funktionsblöcke, wie z.B. eine Liste der aktuellsten Beiträge oder der neusten Kommentare.
+Unter Widgets kannst Du die Widget-Seitenspalte auf den Blog-/News-Seiten editieren. Widgets sind kleine Funktionsblöcke, wie z.B. eine Liste der aktuellsten Beiträge oder der neuesten Kommentare.
 
 ---
 
@@ -111,7 +111,7 @@ Du kannst den Beitrag entweder
 4. anschauen
 
 **Bearbeiten**<br />
-Bei einem Klick auf "Bearbeiten" kommst Du auf den einzelnen Beitrag. Die FUnktionalität werden im nächsten Kapitel "Beiträge/Seiten bearbeiten" erklärt.
+Bei einem Klick auf "Bearbeiten" kommst Du auf den einzelnen Beitrag. Die Funktionalität werden im nächsten Kapitel "Beiträge/Seiten bearbeiten" erklärt.
 
 **Quickedit**<br />
 Im Quickeditmodus kannst Du einige schnelle Änderungen an dem Beitrag vornehmen. Z.B. das Veröffentlichungsdatum oder den Titel ändern, sowie die Kategorie- und Schlagwortzuweisung ändern. Außerdem kannst Du den Beitrag wieder in den Entwurfstatus zurücksetzen, wenn Du Ihn nicht mehr veröffentlicht haben möchtest

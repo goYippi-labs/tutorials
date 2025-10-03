@@ -29,7 +29,7 @@ Normalerweise arbeiten wir mit diesem Set-up.
 
 wordpress.com ist das kommerzielle SaaS-Angebot (Software as a service) von Automattic, dem Entwickler von WordPress. Über das Anlegen eines Accounts bekommst Du von wordpress.com eine eigene Installation unter einer Subdomain aufgesetzt (euer-seitentitel.wordpress.com).
 
-Leider können bei der kostenlosen Variante nicht alle Plugins und auch keine eigenen Themes installiert werden. Außerdem speichert Automattic Statistiken und Besucherdaten auf amerikanischen Servern, so dass diese Lösung nicht mit der DSGVO kompatible ist.
+Leider können bei der kostenlosen Variante nicht alle Plugins und auch keine eigenen Themes installiert werden. Außerdem speichert Automattic Statistiken und Besucherdaten auf amerikanischen Servern, so dass diese Lösung nicht mit der DSGVO kompatibel ist.
 
 ---
 

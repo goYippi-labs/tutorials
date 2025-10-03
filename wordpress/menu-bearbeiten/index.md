@@ -9,7 +9,7 @@ order: 3
 
 ## Menüs
 
-In WordPress werden die Menüs mit einem eigenen Tool verwaltet. Das bedeutet, dass Seiten oder Beiträge, die veröffentlich wurden, **nie automatisch in einem Menü erscheinen**. Die gewünschten Änderungen im Menü müssem in der Menü-Verwaltung festgelegt werden.
+In WordPress werden die Menüs mit einem eigenen Tool verwaltet. Das bedeutet, dass Seiten oder Beiträge, die veröffentlich wurden, **nie automatisch in einem Menü erscheinen**. Die gewünschten Änderungen im Menü müssen in der Menü-Verwaltung festgelegt werden.
 
 Die Menü-Verwaltung findest Du unter "Design > Menüs". Je nach Theme und Benutzerrolle kann es sein, dass Du keinen Zugriff auf diesen Menüpunkt hast.
 
@@ -34,12 +34,12 @@ Je nach Theme und installierten Plugins können hier auch noch mehr Elemente auf
 
 Die einzelnen Elemente können einfach ausgewählt werden und über den Button "Zum Menü hinzufügen" zum Menü auf der rechten Seiten hinzugefügt werden.
 
-Dort können die Elemente mit der Maus angefasst und per Drap&Drop an die gewünschte Stelle geschoben werden.
+Dort können die Elemente mit der Maus angefasst und per Drag & Drop an die gewünschte Stelle geschoben werden.
 
 ![alt text](menu-link.jpg "Screen der Eingabe des individuellen Links"){:.alignright}
-Wenn ein Menü-Eintrag hinzugefügt werden soll, der nicht den Seiten oder Beiträgen entspricht, kannst Du einen individuellen Link eingeben. Das Feld "URL" beinhaltet die Adresse der gewünschten Verlinkung. Das Feld "Link-Text" ist die benennung des Menüpunkts.
+Wenn ein Menü-Eintrag hinzugefügt werden soll, der nicht den Seiten oder Beiträgen entspricht, kannst Du einen individuellen Link eingeben. Das Feld "URL" beinhaltet die Adresse der gewünschten Verlinkung. Das Feld "Link-Text" ist die Benennung des Menüpunkts.
 
-Auch hier kann das hinzugefügt Elemente mit der Maus angefasst und per Drap&Drop an die gewünschte Stelle geschoben werden.
+Auch hier kann das hinzugefügt Elemente mit der Maus angefasst und per Drag & Drop an die gewünschte Stelle geschoben werden.
 
 Unter "Menü-Einstellungen" kannst Du festlegen, an welcher Position im Theme das Menü erscheinen soll. Das ist die gleiche Funktion, die auch der Reiter "Positionen verwalten" bietet.
 

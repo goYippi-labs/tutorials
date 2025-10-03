@@ -11,7 +11,7 @@ order: 2
 
 Seit WordPress 5.0 wurde der alte TinyMCE-Editor (Classic Editor) durch den Block-Editor ersetzt. Dadurch hat sich die Arbeit mit Inhalten grundlegend geändert. Während der klassische Editor im Grunde genommen nur ein Textfeld darstellt, in dem Inhalte ausgezeichnet werden können, kannst Du im Block-Editor weitgreifendere Layout-Entscheidungen treffen und in einer Umgebung arbeiten, die mit der Darstellung auf der Webseite identisch ist.
 
-Sollte Deine Webseite noch den klassischen Editor anzeigen, so geschieht das durch das Plugin "Classic Editor". Der klassische Editor wird noch bis Ende 2024 von WordPress unterstützt.
+Sollte Deine Webseite noch den klassischen Editor anzeigen, so geschieht das durch das Plugin "Classic Editor". Der klassische Editor wird noch bis Ende 2024 (oder so lange wie nötig) von WordPress unterstützt.
 
 **Classic Editor**
 
@@ -60,7 +60,7 @@ Wenn Du einen Block anwählst, erscheint am Beginn des Blocks ein Bearbeitsmenü
 
 ![alt text](block-select.jpg "Screen eines Blocks im Auswahlmodus")
 
-Du kannst Blöcke untereinander verschieben oder auch mehrere Blöcke gemeinsam auswählen und verschieben. Die Arbeits muss als nicht unbedingt pro Block erledigt werden. Du kannst auch ganzen Layout-Gruppen von A nach B verschieben.
+Du kannst Blöcke untereinander verschieben oder auch mehrere Blöcke gemeinsam auswählen und verschieben. Die Arbeit muss als nicht unbedingt pro Block erledigt werden. Du kannst auch ganze Layout-Gruppen von A nach B verschieben.
 
 Wenn Du einen neuen Block hinzufügen möchtest, kann das über mehrere Wege passieren:
 
@@ -78,7 +78,7 @@ Es gibt eine Vielzahl von Blöcken:
 
 [» Detailierte Liste an Blöcken](https://gutenberg-fibel.de/bloecke/)
 
-Jeder Block besitzt eigene Formatierungsmöglichkeiten. Bitte nutzt den Link "Detailierte Liste an Blöcken", um Euch über die einzelnen Blöcke zu informieren. Beispielhaft wird im folgenden der Bild-Block erläutet, da er (abseits von Absätzen und Überschriften) sicherlich am häufigsten verwendet wird.
+Jeder Block besitzt eigene Formatierungsmöglichkeiten. Bitte nutzt den Link "[Detailierte Liste an Blöcken](https://gutenberg-fibel.de/bloecke/)", um Euch über die einzelnen Blöcke zu informieren. Beispielhaft wird im folgenden der Bild-Block erläutet, da er (abseits von Absätzen und Überschriften) sicherlich am häufigsten verwendet wird.
 
 ---
 
@@ -158,7 +158,7 @@ Das Beitragsbild kann abhängig vom Theme eventuell **auch bei Seiten** festgele
 ## Seiten-Attribute
 
 ![alt text](page-sidebar.jpg "Screen der Seitenspalte bei Seiten"){:.alignright}
-Bei Seiten gibt es die Möglichkeit in der Seitespalte Seitensttribute festzulegen. Zum einen kann festgelegt werden, ob die Seite eine Unterseite einer anderen Seiten seien soll, Das geschieht über die Auswahl "Übergeordnete Seite".
+Bei Seiten gibt es die Möglichkeit in der Seitespalte Seitenattribute festzulegen. Zum einen kann festgelegt werden, ob die Seite eine Unterseite einer anderen Seiten seien soll, Das geschieht über die Auswahl "Übergeordnete Seite".
 
 Zum andere kann festgelegt werden, in welcher Reihenfolge die Seiten auf der Seitenübersicht erscheinen. Dazu wird in das Feld "Reihenfolge" eine Ziffer eingegeben. Je kleiner die Zahl, desto weiter oben wird die Seite gelistet.
 
