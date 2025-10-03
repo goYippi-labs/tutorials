@@ -27,7 +27,7 @@ Normalerweise arbeiten wir mit diesem Set-up.
 
 **2. Anlegen eines wordpress.com-Accounts**
 
-wordpress.com ist das kommerzielle SaS-Angebot (Software as Service) von Automattic, dem Entwickler von WordPress. Über das Anlegen eines Accounts bekommst Du von wordpress.com eine eigene Installation unter einer Subdomain aufgesetzt (euer-seitentitel.wordpress.com).
+wordpress.com ist das kommerzielle SaaS-Angebot (Software as a service) von Automattic, dem Entwickler von WordPress. Über das Anlegen eines Accounts bekommst Du von wordpress.com eine eigene Installation unter einer Subdomain aufgesetzt (euer-seitentitel.wordpress.com).
 
 Leider können bei der kostenlosen Variante nicht alle Plugins und auch keine eigenen Themes installiert werden. Außerdem speichert Automattic Statistiken und Besucherdaten auf amerikanischen Servern, so dass diese Lösung nicht mit der DSGVO kompatible ist.
 
