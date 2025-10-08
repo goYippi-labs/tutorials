@@ -65,8 +65,8 @@ Quelle: [» www.go4u.de/browser-cache-leeren.htm](https://www.go4u.de/browser-ca
 ### Tablet/Smartphone
 
 * **iOS - Safari App:**
-  * Gehe zu „Einstellungen“ > „Safari“ > „Erweitert“ > „Website-Daten“
-  * Tippe anschließend auf „Alle Website-Daten entfernen“
+  * Gehe zu „Einstellungen“ > „Apps“ > „Safari“ > „Verlauf und Websitedaten löschen“
+  * Tippe anschließend auf den gewünschten Zeitrahmen und auf „Verlauf löschen“
 
 * **Android - Chrome App:**
   * Öffne die Chrome App Chrome
