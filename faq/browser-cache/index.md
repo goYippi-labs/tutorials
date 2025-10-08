@@ -68,8 +68,12 @@ Quelle: [» www.go4u.de/browser-cache-leeren.htm](https://www.go4u.de/browser-ca
   * Gehe zu „Einstellungen“ > „Apps“ > „Safari“ > „Verlauf und Websitedaten löschen“
   * Tippe anschließend auf den gewünschten Zeitrahmen und auf „Verlauf löschen“
 
+Quelle: [» support.apple.com/de-de/105082](https://support.apple.com/de-de/105082)
+
 * **Android - Chrome App:**
   * Öffne die Chrome App
   * Tippe rechts oben auf das Dreipunkt-Menü > „Browserdaten löschen“
   * Wähle oben einen Zeitraum aus. Um alles zu löschen, wähle „Gesamte Zeit“ aus
   * Klicke dann auf „Daten löschen“
+
+Quelle: [» support.google.com/accounts/answer/32050](https://support.google.com/accounts/answer/32050?hl=de)
