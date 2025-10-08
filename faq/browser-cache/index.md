@@ -69,8 +69,7 @@ Quelle: [» www.go4u.de/browser-cache-leeren.htm](https://www.go4u.de/browser-ca
   * Tippe anschließend auf den gewünschten Zeitrahmen und auf „Verlauf löschen“
 
 * **Android - Chrome App:**
-  * Öffne die Chrome App Chrome
-  * Tippe rechts oben auf das Symbol "Mehr" (Dreipunkt-Menü)
-  * Tippe auf Verlauf und dann Browserdaten löschen
+  * Öffne die Chrome App
+  * Tippe rechts oben auf das Dreipunkt-Menü > „Browserdaten löschen“
   * Wähle oben einen Zeitraum aus. Um alles zu löschen, wähle „Gesamte Zeit“ aus
-  * Aktiviere „Bilder und Dateien im Cache“ und klicke dann auf „Browserdaten löschen“
+  * Klicke dann auf „Daten löschen“
